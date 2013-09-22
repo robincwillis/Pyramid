@@ -1,0 +1,49 @@
+
+@import '../assets/fonts/bitstreamvera/stylesheet.css';
+
+
+.banner{
+  background-color: black;
+  height:200px;
+  margin-bottom: 20px;
+}
+
+.highlight {
+  font-family: "BitstreamVeraSansMonoRoman" !important;
+
+}
+
+.sidebar{
+  margin-top:74px;
+}
+
+.centered{
+  text-align: center;
+}
+
+.button{
+  border:none;
+      font-family: "Open Sans",Calibri,Candara,Arial,sans-serif;
+  background: #222;
+  text-shadow:none;
+  color:#fff;
+  font-size: 14px;
+}
+
+.button:hover{
+  border:none;
+  background: #007fff;
+  text-shadow:none;
+  color:#fff;
+}
+
+ pre {
+  border: 1px solid #ddd;
+  /*background-color: #efefef;*/
+  padding: 15px;
+}
+
+.post ul, .post ol {
+  margin-left: 1.35em;
+}
+
